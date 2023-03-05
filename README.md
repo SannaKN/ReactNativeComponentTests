@@ -15,3 +15,7 @@ open expo Go and scan the QR-code.
 Links to test videos: 
 Android: https://youtu.be/zHmWz0CqrPs
 iOS: https://youtu.be/_OFih5dGGLU
+
+datepicker test:
+ios https://youtu.be/Ey36MWIVH9E     
+Android   https://youtu.be/PnTQ_MqIK1k
